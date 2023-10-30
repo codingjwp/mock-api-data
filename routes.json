@@ -1,4 +1,7 @@
 {
   "/pokemondb": "/pokemondb",
-  "/pokemonlist": "/pokemonlist"
+  "/pokemonlist": "/pokemonlist",
+  "/assets/form": "/form",
+  "/assets/sprites": "/sprites",
+  "/assets/types": "/types"
 }
