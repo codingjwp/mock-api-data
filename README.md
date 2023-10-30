@@ -6,7 +6,7 @@
 
 ### 폴더에 따른 데이터 내용
 
-- 데이터: pokemondb.json
+- 데이터: db.json
 - 라우터: routes.json
 - 이미지:  📂 asset 폴더
   - 📂 form : 포켓몬 폼에 따른 이미지 (미완성)
