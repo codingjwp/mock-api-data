@@ -4,3 +4,4 @@
 .env
 .evn.local
 .env.developer
+*.swap
