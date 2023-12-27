@@ -15,13 +15,18 @@
 
 ### 설치 방법
 
-git clone 한 후
+```bash
+# git 클론 부분
+git clone https://github.com/codingjwp/mock-search-static-data.git
+cd mock-search-static-data
+```
 
 ```bash
-cd searcher-project/server
+# json-server 실행 부분
 npm install
 npm start # or npm run start
 ```
+
 ### json-server 설정 내용
 - `port` : 4000
 - `read-only`: true
